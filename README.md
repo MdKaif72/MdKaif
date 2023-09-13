@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
 <h1 align="center">Hi 👋, I'm Md Kaif Ansari</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
