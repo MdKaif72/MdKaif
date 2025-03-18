@@ -1,0 +1,19 @@
+	WEDNESDAY(12-02)
+
+
+________1.Builder make ppt and read all the documentation.
+________2.Comparator and Comparable Interface.
+________3.Stream API
+________4.Exceptional Handling.
+
+		Room
+________5.JobSequencing Problem
+________6.DSA
+
+
+
+
+Tuesday
+
+______1.All GreedyAlgorithm Bytes 
+______2.Start DP
